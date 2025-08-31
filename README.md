@@ -11,12 +11,25 @@ This project involves conducting mechanical testing on a mild steel specimen and
 
 **3. Objectives**
 
-To determine the tensile strength, yield strength, and percentage elongation of mild steel.
+. To determine the tensile strength, yield strength, and percentage elongation of mild steel.
 
-To study the stress-strain relationship for mild steel.
+. To study the stress-strain relationship for mild steel.
 
-To evaluate the hardness of mild steel using standard tests.
+. To evaluate the hardness of mild steel using standard tests.
 
-To understand the failure characteristics of mild steel under loading.
+. To understand the failure characteristics of mild steel under loading.
 
-To compare experimental results with standard values.
+. To compare experimental results with standard values.
+
+
+4. Materials and Equipment Used
+
+. Material Tested: Mild Steel Bar (cylindrical specimen).
+
+. Testing Machines:
+
+  . Universal Testing Machine (UTM)
+
+  . Vernier caliper / Micrometer screw gauge
+
+  . Hardness testing machine (Brinell/Rockwell/Vickers)
