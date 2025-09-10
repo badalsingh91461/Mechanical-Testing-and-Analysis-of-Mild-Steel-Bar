@@ -1,4 +1,4 @@
-# Experiment 1 – Tension Test
+# Experiment 1 – Tensile Test
 
 ## Aim
 To determine the tensile strength and mechanical properties of a specimen using a Universal Testing Machine (UTM).
