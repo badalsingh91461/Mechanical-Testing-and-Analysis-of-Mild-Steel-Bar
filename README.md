@@ -1,45 +1,78 @@
-# Experiment 1 – Tensile Test
+# Mechanical Testing of Materials
 
-## Aim
-To determine the tensile strength and mechanical properties of a specimen using a Universal Testing Machine (UTM).
+This contains experiments performed on **Mild Steel Bars** to study their mechanical behavior under different loading conditions. The tests include **Tensile Test, Compression Test, Izod Impact Test, and Charpy Impact Test**.
 
-## Theory
-A tensile test measures the response of a material to a slowly applied uniaxial tensile load.  
-- In the **elastic region**, deformation is reversible.  
-- Beyond the **yield point**, permanent (plastic) deformation occurs.  
-- The **ultimate tensile strength (UTS)** is the maximum stress a material can withstand.  
-- Failure occurs after necking and fracture.  
+---
 
-## Equipment & Specimen
-- Universal Testing Machine (UTM)  
-- Specimens of mild steel, cast iron, or aluminum  
+## 🔹 Aim
+To determine the fundamental mechanical properties of mild steel specimens through various destructive tests.
 
-## Procedure
-1. Measure specimen dimensions (diameter, gauge length, cross-sectional area).  
-2. Mount specimen in UTM grips.  
-3. Attach extensometer and zero the readings.  
-4. Apply tensile load gradually in uniform increments.  
-5. Record elongation, yield point, maximum load, and fracture point.  
-6. After fracture, measure final dimensions (reduced diameter, final gauge length).  
+---
 
-## Calculations
-- **Stress (σ) = Load / Original Area**  
-- **Strain (ε) = Change in Length / Original Length**  
-- **Young’s Modulus (E) = Stress / Strain (within elastic limit)**  
-- **Yield Stress (fy)** = Stress at yield point  
-- **Tensile Strength (UTS)** = Max Load / Original Area  
-- **% Elongation = [(Final Length – Original Length) / Original Length] × 100**  
-- **% Reduction in Area = [(Ao – A' ) / Ao] × 100**  
+## 🔹 Experiments
 
-## Results
-- Stress–strain curve plotted.  
-- Key properties determined:  
+### 1. Tensile Test
+- **Objective:** Determine tensile strength, yield stress, Young’s modulus, % elongation, and % reduction in area.  
+- **Procedure (Summary):**
+  - Specimen dimensions measured.
+  - Loaded in Universal Testing Machine (UTM).
+  - Stress–strain curve plotted.
+- **Key Calculations:**
+  - Stress (σ = P/A₀)  
+  - Strain (ε = ΔL/L₀)  
+  - Young’s Modulus (E = σ/ε within elastic limit)  
+  - UTS, % Elongation, % Reduction in area  
+
+---
+
+### 2. Compression Test
+- **Objective:** Evaluate compressive strength and deformation characteristics of the specimen.  
+- **Procedure (Summary):**
+  - Specimen placed between UTM platens.  
+  - Axial compressive load applied gradually.  
+  - Load vs. deformation recorded until failure.  
+- **Key Results:**
+  - Compressive strength = Maximum load / Cross-sectional area  
+  - Behavior studied: elastic shortening, plastic deformation, buckling (if slender specimen).  
+
+---
+
+### 3. Izod Impact Test
+- **Objective:** Measure material toughness under sudden loading.  
+- **Procedure (Summary):**
+  - Notched specimen clamped vertically in impact testing machine.  
+  - Pendulum hammer strikes opposite to the notch.  
+  - Energy absorbed = Difference in hammer heights before and after impact.  
+- **Result:** Toughness value (Joules) representing energy absorbed during fracture.  
+
+---
+
+### 4. Charpy Impact Test
+- **Objective:** Compare with Izod test to study toughness in a simply supported specimen.  
+- **Procedure (Summary):**
+  - Notched specimen placed horizontally on supports.  
+  - Hammer strikes opposite face at notch location.  
+  - Energy absorbed calculated similarly to Izod.  
+- **Result:** Toughness value (Joules) indicating resistance to sudden shock loading.  
+
+---
+
+## 🔹 Observations & Results
+- **Stress–strain curves** for tensile and compression tests.  
+- **Fracture analysis** for impact tests.  
+- Properties determined:  
   - Young’s modulus (E)  
-  - Yield stress (fy)  
-  - Ultimate tensile strength (UTS)  
-  - % Elongation  
-  - % Reduction in area  
+  - Yield stress & Ultimate tensile strength (UTS)  
+  - Compressive strength  
+  - Toughness values (Izod & Charpy)  
 
-## Conclusion
-The tensile test provides fundamental material properties like elastic limit, yield point, tensile strength, ductility, and fracture characteristics. These parameters are essential for selecting materials in engineering design.  
+---
+
+## 🔹 Conclusion
+The experimental study provided insights into the **mechanical behavior of mild steel**:  
+- Tensile and compression tests reveal **strength, ductility, and elasticity**.  
+- Izod and Charpy impact tests quantify **toughness and resistance to sudden loading**.  
+These tests together help in **material selection, safety assessment, and structural design**.  
+
+---
 
