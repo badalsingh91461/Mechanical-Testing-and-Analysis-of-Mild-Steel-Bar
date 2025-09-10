@@ -13,7 +13,7 @@ To determine the fundamental mechanical properties of mild steel specimens throu
 
 ### 1. Tensile Test
 - **Objective:** Determine tensile strength, yield stress, Young’s modulus, % elongation, and % reduction in area.  
-- **Procedure (Summary):**
+- **Procedure Summary:**
   - Specimen dimensions measured.
   - Loaded in Universal Testing Machine (UTM).
   - Stress–strain curve plotted.
@@ -27,7 +27,7 @@ To determine the fundamental mechanical properties of mild steel specimens throu
 
 ### 2. Compression Test
 - **Objective:** Evaluate compressive strength and deformation characteristics of the specimen.  
-- **Procedure (Summary):**
+- **Procedure Summary:**
   - Specimen placed between UTM platens.  
   - Axial compressive load applied gradually.  
   - Load vs. deformation recorded until failure.  
@@ -39,7 +39,7 @@ To determine the fundamental mechanical properties of mild steel specimens throu
 
 ### 3. Izod Impact Test
 - **Objective:** Measure material toughness under sudden loading.  
-- **Procedure (Summary):**
+- **Procedure Summary:**
   - Notched specimen clamped vertically in impact testing machine.  
   - Pendulum hammer strikes opposite to the notch.  
   - Energy absorbed = Difference in hammer heights before and after impact.  
@@ -49,7 +49,7 @@ To determine the fundamental mechanical properties of mild steel specimens throu
 
 ### 4. Charpy Impact Test
 - **Objective:** Compare with Izod test to study toughness in a simply supported specimen.  
-- **Procedure (Summary):**
+- **Procedure Summary:**
   - Notched specimen placed horizontally on supports.  
   - Hammer strikes opposite face at notch location.  
   - Energy absorbed calculated similarly to Izod.  
@@ -57,16 +57,7 @@ To determine the fundamental mechanical properties of mild steel specimens throu
 
 ---
 
-## 🔹 Observations & Results
-- **Stress–strain curves** for tensile and compression tests.  
-- **Fracture analysis** for impact tests.  
-- Properties determined:  
-  - Young’s modulus (E)  
-  - Yield stress & Ultimate tensile strength (UTS)  
-  - Compressive strength  
-  - Toughness values (Izod & Charpy)  
 
----
 
 ## 🔹 Conclusion
 The experimental study provided insights into the **mechanical behavior of mild steel**:  
